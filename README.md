@@ -1,8 +1,8 @@
 # Museum of the Year 3000
 
-[![make.fun](https://img.shields.io/badge/make.fun-Museum%20of%20the%20Year%203000-blue)](https://make.fun/c/u-donrulezz-museum-of-the-year-3000-b727a0bb)
-[![reward $2](https://img.shields.io/badge/reward-%242%20%E2%80%A2%201st%20%240.63-green)](https://make.fun/c/u-donrulezz-museum-of-the-year-3000-b727a0bb)
-[![status](https://img.shields.io/badge/status-submit--ready-orange)](https://make.fun/c/u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![make.fun · u-donrulezz-museum-of-the-year-3000-b727a0bb](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![rank](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/daring-falcon-58/u-donrulezz-museum-of-the-year-3000-b727a0bb/rank.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
+[![reward](https://make.fun/badge/u-donrulezz-museum-of-the-year-3000-b727a0bb/daring-falcon-58/u-donrulezz-museum-of-the-year-3000-b727a0bb/reward.svg)](https://make.fun/bounty/u-donrulezz-museum-of-the-year-3000-b727a0bb?utm_source=github&utm_medium=readme&utm_campaign=u-donrulezz-museum-of-the-year-3000-b727a0bb)
 [![license MIT](https://img.shields.io/badge/license-MIT-lightgrey)](LICENSE)
 
 ## Methodology (read first)
